@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SecuredTokenTransfer",
+  "sourceName": "contracts/common/SecuredTokenTransfer.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212204e8f6e0d2c0abc151b7af7447df15657c2e6977a838dc6e6107541a1ebfc0f0764736f6c63430008070033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212204e8f6e0d2c0abc151b7af7447df15657c2e6977a838dc6e6107541a1ebfc0f0764736f6c63430008070033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
